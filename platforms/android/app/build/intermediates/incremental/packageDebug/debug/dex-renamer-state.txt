@@ -1,0 +1,4 @@
+#Thu Feb 28 10:38:28 EET 2019
+base.0=C\:\\OAMK\\Year 2\\Term 3\\Hybrid Applications\\Demos\\Weather-App-Homework\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
